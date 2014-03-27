@@ -276,10 +276,19 @@ nav li:hover { background:#6f0505; height:53px;}
 	margin:0 auto;
 		
 }
+
+.innermenu{
+	background:#f1f1f1;
+    display:block;
+    text-align:center;
+}
+
 .innermenu ul{
 	background:#f1f1f1;
 	border-bottom:1px solid #e5e5e5;
 	padding:5px 5px 5px 5px;
+    display:inline-block;
+    width:289px;
 }
 .innermenu ul li{
 	float:left;
@@ -433,8 +442,8 @@ input[type="submit"], input[type="button"], .btn {border:1px solid #00531b; colo
 	font-size:0.9em;
 	color:#000000;	
 }
-.sportSubNav { margin-bottom: 5px; width: 100%; }
-.sportSubNav a{ background:#F9F9F9; width: 98%; color:#000000; display: block; font-size: 11px;  padding: 1%; text-decoration: none; text-transform: uppercase; border:1px  solid #D6D9D9; }
+.sportSubNav { margin-bottom: 5px; width: 58%; }
+.sportSubNav a{ background:#F9F9F9; width: 70%; color:#000000; display: block; font-size: 11px;  padding: 1%; text-decoration: none; text-transform: uppercase; border:1px  solid #D6D9D9; }
 .sportSubNav a:hover { background:#efefef; }
 .sportSubNav a span{ display: block;  font-weight: bold; }
 
