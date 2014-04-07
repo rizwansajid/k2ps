@@ -442,8 +442,8 @@ input[type="submit"], input[type="button"], .btn {border:1px solid #00531b; colo
 	font-size:0.9em;
 	color:#000000;	
 }
-.sportSubNav { margin-bottom: 5px; width: 58%; }
-.sportSubNav a{ background:#F9F9F9; width: 70%; color:#000000; display: block; font-size: 11px;  padding: 1%; text-decoration: none; text-transform: uppercase; border:1px  solid #D6D9D9; }
+.sportSubNav { margin-bottom: 5px; width: 70%; }
+.sportSubNav a{ background:#F9F9F9; width: 140%; color:#000000; display: block; font-size: 11px;  padding: 1%; text-decoration: none; text-transform: uppercase; border:1px  solid #D6D9D9; }
 .sportSubNav a:hover { background:#efefef; }
 .sportSubNav a span{ display: block;  font-weight: bold; }
 
