@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
-    id        = "kids2prosports"
+    id        = "com.2bv.kids2prosports"
     versionCode="56"
     version   = "1.0.2">
   <!-- versionCode is optional and Android only -->
