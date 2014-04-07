@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
-    id        = "com.2bv.kids2prosports"
+    id        = "com.kids2prosports.www"
     versionCode="56"
     version   = "1.0.2">
   <!-- versionCode is optional and Android only -->
  
   <!--Phonegap version-->
   <preference name="phonegap-version" value="2.7.0" />
-  <name>KidsToProSports slflkdsf</name>
+  <name>KidsToProSports</name>
 
   <description>
     Kids2ProSports is the world's premier multicultural Global Sports Network and Legacy Search Engine. It's exclusive “Timeline Features” provide the resources to Create, Share and Preserve “Your Sports Legacy“ from Childhood... to Professional and Beyond.
